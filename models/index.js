@@ -40,6 +40,7 @@ Tag.belongsToMany(Product, {
     unique: false
   },
   as: 'tags_ofProduct'
+  // change this to products_inTag
 });
 
 module.exports = {
