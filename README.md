@@ -2,7 +2,7 @@
 
 ## Description
 
-This project involved modifying starter code in order to create the back-end of a E-Commerce website.
+This project involved modifying starter code in order to create the back-end of an e-commerce website.
 Features of this project include:
 * MySQL
 * Sequelize
